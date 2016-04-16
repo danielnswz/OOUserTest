@@ -1,0 +1,33 @@
+.form-gen {
+        padding: 19px 29px 29px;
+        margin: 0 auto 20px;
+        background-color: #fff;
+       
+      }
+      .form-gen .form-gen-heading,
+      .form-gen .checkbox {
+        margin-bottom: 10px;
+      }
+      .form-gen input[type="text"],
+      .form-gen input[type="password"],
+      .form-gen input[type="email"],
+      .form-gen input[type="date"],
+      .form-gen textarea{
+        font-size: 12px;
+        height: auto;
+        margin-bottom: 5px;
+        margin-top:5px;
+        padding: 7px 9px;
+      }
+      .form-gen label{
+        height: auto;
+        font-size: 12px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        padding-top: 9px;
+
+      }
+      #contenido{
+        border-left: 1px solid #e5e5e5;
+        border-right: 1px solid #e5e5e5;
+      }

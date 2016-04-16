@@ -1,0 +1,1 @@
+<?header('Location: http://'.$_SERVER['HTTP_HOST'].'/agentes_informaticos/views/index.php');die();?>
